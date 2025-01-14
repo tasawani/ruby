@@ -23,4 +23,4 @@ puts pharase[0,3]               # first 3 charecter
 puts pharase.index("l")         # position of specific charecter started at?
 puts pharase.index("or")
 
-puts "programming".upcase()     # no need to use method inside the variable
+puts "programming".upcase()     # no need to use method inside the variable = PROGRAMMING
